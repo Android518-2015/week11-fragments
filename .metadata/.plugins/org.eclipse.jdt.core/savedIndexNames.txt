@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/home/tricia/fragments/.metadata/.plugins/org.eclipse.jdt.core
